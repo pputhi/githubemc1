@@ -1,1 +1,3 @@
 creates text 1.txt file
+hello new king
+
